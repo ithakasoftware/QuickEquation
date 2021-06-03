@@ -1,0 +1,2 @@
+# QuickEquation
+Calculadora de formulas
